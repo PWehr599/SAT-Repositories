@@ -12,10 +12,10 @@ from satqubolib.transformations import PatternQUBONMSAT
 
 
 class TabuGroundStatesGenerator:
-    def __init__(self, formula_path, pattern_qubo_dict, use_random_pattern_choices, num_random_patterns=200,
-                 pattern_qubo_ids=None, num_reads=10, time_out=200,
-                 mini_sat_path='ground_states_tabu/compiled_minisat/bc_minisat_all_release', mini_sat_timeout=120):
-
+    def __init__(self, formula_path, pattern_qubo_dict, use_random_pattern_choices, num_random_patterns=10,
+                 pattern_qubo_ids=None, num_reads=10, time_out=50,
+                 mini_sat_path='ground_states_tabu/compiled_minisat/bc_minisat_all_static_linux', mini_sat_timeout=120):
+                # satqubolib_groundstates/ground_states_tabu/compiled_minisat/bc_minisat_all_release
         self.formula_path = formula_path
         self.cnf = CNF.from_file(formula_path)
         self.pattern_qubo_dict = pattern_qubo_dict

@@ -18,7 +18,7 @@ def plot_data(df, save_dir):
 
         ax.set_xscale('log')
 
-        plt.title(f"{label} vs Ground State Count")
+        #plt.title(f"{label} vs Ground State Count")
         plt.xlabel("Ground State Count")
         plt.ylabel(label)
 

@@ -89,7 +89,11 @@ def save_tabu_pandas_table(result_table, output_dir):
 
 
 def plot_and_save(result_table, formula_name):
-    output_dir = os.path.join(os.getcwd(), f"{formula_name}_Tabu_Results")
+    #output_dir = os.path.join(os.getcwd(), f"{formula_name}_Tabu_Results")
+    # This line here for saving is hardcoded to the Docker transient Directory
+    # This is for saving the results for Plots/dataframes on host machine directly - uncomment the line above if running directly
+    output_dir = os.path.join("/satqubolib_groundstates/shared", f"{formula_name}_Tabu_Results")
+
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
     save_tabu_pandas_table(result_table, output_dir)
