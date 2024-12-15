@@ -71,4 +71,7 @@ docker run \
   --timeout_TABU=1 \
   --timeout_minisat=300
 
+docker run   -v /Users/philippewehr/Desktop/Test:/satqubolib_groundstates/shared   pwehr/python-sat-groundstates   --formula_path="/satqubolib_groundstates/shared/10.cnf"   --use_random=True   --num_random=1   --num_reads=1   --timeout_TABU=1   --timeout_minisat=300
+
+
 '''

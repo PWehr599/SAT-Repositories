@@ -12,10 +12,66 @@ from satqubolib.transformations import PatternQUBONMSAT
 
 
 class TabuGroundStatesGenerator:
+    """
+Class: TabuGroundStatesGenerator
+
+Initialization:
+    - Inputs: formula_path, pattern_qubo_dict, use_random_pattern_choices, num_random_patterns,
+      pattern_qubo_ids, num_reads, time_out, mini_sat_path, mini_sat_timeout
+    - Operations: Load CNF from formula_path, store parameters, prepare for SAT solving and Tabu search.
+
+Method: generate_random_pattern_qubo_input
+    - Inputs: None (uses class attributes)
+    - Operations: Choose random QUBO pattern IDs from pattern_qubo_dict using num_random_patterns.
+    - Outputs: Updates pattern_qubo_ids.
+
+Method: generate_formula_solution
+    - Inputs: formula_path
+    - Operations:
+        1. Generate solution file path based on formula_path.
+        2. Run MiniSat solver with the formula.
+        3. Read solutions from the solver output.
+        4. Convert solver outputs to binary formula solutions.
+    - Outputs: binary_formula_solutions
+
+Method: count_ground_states
+    - Inputs: None (uses class attributes)
+    - Operations:
+        1. Calculate pattern QUBOs data from pattern_qubo_dict.
+        2. If use_random_pattern_choices is True, generate random QUBO input.
+        3. Generate binary formula solutions using generate_formula_solution.
+        4. For each pattern_qubo_id:
+            a. Fetch QUBO identifiers and data.
+            b. Count ground states using the pattern QUBO data and binary formula solutions.
+        5. Aggregate results into pattern_qubo_inputs and all_ground_states.
+    - Outputs: pattern_qubo_inputs, all_ground_states
+
+Method: tabu_search
+    - Inputs: pattern_qubo_inputs
+    - Operations:
+        1. For each pattern_qubo_input:
+            a. Create a SAT-QUBO problem using PatternQUBONMSAT and input clauses.
+            b. Construct QUBO matrix and convert to BinaryQuadraticModel.
+            c. Perform Tabu sampling using the BQM.
+            d. Evaluate the output vectors to calculate clauses satisfied.
+        2. Aggregate results.
+    - Outputs: results (pattern identifiers and clause satisfaction metrics)
+
+Method: count_gs_tabu_search_and_plot
+    - Inputs: None (uses class attributes)
+    - Operations:
+        1. Call count_ground_states to get pattern_qubo_inputs and all_ground_states.
+        2. Call tabu_search with pattern_qubo_inputs to get results.
+        3. Create and fill a Pandas table with results and ground states data.
+        4. Plot results and save the output with a name derived from formula_path.
+    - Outputs: Visualization and table data
+    """
+
     def __init__(self, formula_path, pattern_qubo_dict, use_random_pattern_choices, num_random_patterns=10,
                  pattern_qubo_ids=None, num_reads=10, time_out=50,
-                 mini_sat_path='ground_states_tabu/compiled_minisat/bc_minisat_all_static_linux', mini_sat_timeout=120):
+                 mini_sat_path='ground_states_tabu/compiled_minisat/bc_minisat_all_release', mini_sat_timeout=120):
                 # satqubolib_groundstates/ground_states_tabu/compiled_minisat/bc_minisat_all_release
+                # ground_states_tabu/compiled_minisat/bc_minisat_all_static_linux
         self.formula_path = formula_path
         self.cnf = CNF.from_file(formula_path)
         self.pattern_qubo_dict = pattern_qubo_dict

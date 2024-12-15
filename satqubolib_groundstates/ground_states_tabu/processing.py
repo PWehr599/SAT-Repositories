@@ -5,6 +5,13 @@ from tabu import TabuSampler
 
 
 def run_all_sat(mini_sat_path, input_file_path, output_file_path, timeout=120):
+    """
+    mini_sat_path: compiled minisat solver
+    input_file_path: formula to be solved
+    output_file_path: text file containing all solutions
+    timeout: maximal allocated time for minisat solver to generate all solutions
+    (If timeout smaller than actual solution time required sol file will be incomplete)
+    """
 
     if not os.path.isfile(mini_sat_path):
         print(f"File not found: {mini_sat_path}")
