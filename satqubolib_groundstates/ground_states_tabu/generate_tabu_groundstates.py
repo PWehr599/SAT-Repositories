@@ -69,7 +69,7 @@ Method: count_gs_tabu_search_and_plot
 
     def __init__(self, formula_path, pattern_qubo_dict, use_random_pattern_choices, num_random_patterns=10,
                  pattern_qubo_ids=None, num_reads=10, time_out=50,
-                 mini_sat_path='ground_states_tabu/compiled_minisat/bc_minisat_all_release', mini_sat_timeout=120):
+                 mini_sat_path='ground_states_tabu/compiled_minisat/bc_minisat_all_static_linux', mini_sat_timeout=120):
                 # satqubolib_groundstates/ground_states_tabu/compiled_minisat/bc_minisat_all_release
                 # ground_states_tabu/compiled_minisat/bc_minisat_all_static_linux
         self.formula_path = formula_path
