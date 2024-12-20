@@ -36,8 +36,8 @@ if __name__ == '__main__':
         # Optional argument for pattern_qubo_dict with a default value
         parser.add_argument(
                 "--pattern_qubo_file",
-                default="pattern_qubos/pattern_qubos.pkl",  # Default to this file
-                help="Path to the Pattern QUBO file (Interval: -2,2, step size: 1) (default: 'pattern_qubos/pattern_qubos.pkl')",
+                default="pattern_qubos/pattern_qubos_2_2.pkl",  # Default to this file
+                help="Path to the Pattern QUBO file (Interval: -1,1, step size: 1) (default: 'pattern_qubos/pattern_qubos_2_2.pkl')",
         )
 
         args = parser.parse_args()
@@ -54,7 +54,7 @@ if __name__ == '__main__':
 code path to mounted volume inside functions - /Users/philippewehr/Desktop/Test - this path for dir with the corresponding formula 
 docker run 
   -v /Users/philippewehr/Desktop/Test:/satqubolib_groundstates/shared \  
-  python-satqubolib \
+  python-sat-groundstates \
   --formula_path="/satqubolib_groundstates/shared/10.cnf" \
   --use_random=True \
   --num_random=1 \
