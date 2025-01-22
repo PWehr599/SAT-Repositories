@@ -1,0 +1,38 @@
+Code für das im Image genutzten Funktionen: https://github.com/PWehr599/SAT-Repositories/tree/master/satqubolib_groundstates
+Docker Image Run:
+1. Docker User erstellen: https://app.docker.com/signup
+Hier User: myusername
+2. Docker Image runterladen:
+
+docker pull myusername/python-sat-groundstates:latest
+
+3. Docker Image Durchlaufen lassen
+Ordner mit Formel die untersucht werden soll nach -v schreiben: hier bei mir (home/philippe-wehr/Schreibtisch)
+
+docker run   -v /home/philippe-wehr/Schreibtisch:/satqubolib_groundstates/shared   pwehr/python-sat-groundstates   --formula_path="/satqubolib_groundstates/shared/10.cnf"   --use_random=True   --num_random=1   --num_reads=1   --timeout_TABU=1   --timeout_minisat=300 --pattern_qubo_file /Users/philippewehr/Desktop/Arbeit/Repos/satqubolib_groundstates/pattern_qubos/pattern_qubos.pkl
+
+
+Nach durchlauf wird ein Ornder mit FormelName_Tabu_Results im Ordner wo das Programm ausgeführt wurde mit Plots und .csv erstellt.
+
+Argumente für run sind hier wie folgt:
+        --formula_path: formula path (/satqubolib_groundstates/shared/Formelname")
+        --use_random: random QUBO choice Flag
+        --num_random: Number of random QUBOs Combinations to be analyzed
+        --num_reads: TABU number of reads
+        --timeout_TABU: TABU timeout
+        --timeout_minisat: Minisat timeout in seconds
+        --pattern_qubo_file: Path to the Pattern QUBO file (Interval: -1,1, step size: 1) (default: 'pattern_qubos/pattern_qubos.pkl')
+        (Wenn ein pattern Qubo File mitgegeben wird muss es im gleichen Ordner wie die Formel liegen die Untersucht werden soll)
+        (Gleich wie im Formel Fall: /satqubolib_groundstates/shared/pickleFilename)
+Code im Image abändern:
+- Docker Images immutable es gibt aber ziemlich aufwendige Wege den Code zu ändern ohne nochmal zu builden
+- Ehrlich gesagt verstehe ich die Ansätze dafür noch nicht, ich probier die bis Montag noch zum laufen zu kriegen
+
+Wenn wirklich was geändert werden muss kann man wie folgt builden:
+Repository runterladen und in Ordner satqubolib_groundstates gehen
+ Builden: docker build -t python-sat-groundstates .
+
+ Run Befehl bleibt gleich: docker run   -v /home/philippe-wehr/Schreibtisch:/satqubolib_groundstates/shared   pwehr/python-sat-groundstates   --formula_path="/satqubolib_groundstates/shared/10.cnf"   --use_random=True   --num_random=1   --num_reads=1   --timeout_TABU=1   --timeout_minisat=300
+
+
+
