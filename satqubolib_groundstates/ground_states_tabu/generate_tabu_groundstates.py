@@ -67,28 +67,31 @@ Method: count_gs_tabu_search_and_plot
     - Outputs: Visualization and table data
     """
 
-    def __init__(self, formula_path, pattern_qubo_dict, use_random_pattern_choices, num_random_patterns=10,
-                 pattern_qubo_ids=None, num_reads=10, time_out=50,
+    def __init__(self, formula_path, pattern_qubo_dict, use_random_pattern_choices, num_random_patterns=100, seed=42,
+                 pattern_qubo_ids=None, num_reads=1, time_out=1,
                  mini_sat_path='ground_states_tabu/compiled_minisat/bc_minisat_all_static_linux', mini_sat_timeout=120):
-                # satqubolib_groundstates/ground_states_tabu/compiled_minisat/bc_minisat_all_release
-                # ground_states_tabu/compiled_minisat/bc_minisat_all_static_linux
+                # Minisat Paths in the Repository:
+                # MacOS Compatible: satqubolib_groundstates/ground_states_tabu/compiled_minisat/bc_minisat_all_release
+                # Linux Compatible (compiled on Ubuntu 24.04): ground_states_tabu/compiled_minisat/bc_minisat_all_static_linux
+
         self.formula_path = formula_path
         self.cnf = CNF.from_file(formula_path)
         self.pattern_qubo_dict = pattern_qubo_dict
         self.use_random_pattern_choices = use_random_pattern_choices
         self.num_random_patterns = num_random_patterns
+        self.seed = seed
         self.pattern_qubo_ids = pattern_qubo_ids
 
         # Tabu Parameters
         self.num_reads = num_reads
         self.time_out = time_out
 
-        # Minisat
+        # Minisat Path and Computation Time
         self.mini_sat_path = mini_sat_path
         self.mini_sat_timeout = mini_sat_timeout
 
     def generate_random_pattern_qubo_input(self):
-        random_ids = choose_random_ids(self.pattern_qubo_dict, self.num_random_patterns)
+        random_ids = choose_random_ids(self.pattern_qubo_dict, self.num_random_patterns, self.seed)
         self.pattern_qubo_ids = random_ids
 
     def generate_formula_solution(self):

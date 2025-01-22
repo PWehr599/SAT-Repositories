@@ -37,16 +37,20 @@ if __name__ == '__main__':
         parser.add_argument(
                 "--pattern_qubo_file",
                 default="pattern_qubos/pattern_qubos_2_2.pkl",  # Default to this file
-                help="Path to the Pattern QUBO file (Interval: -1,1, step size: 1) (default: 'pattern_qubos/pattern_qubos_2_2.pkl')",
+                help="Path to the Pattern QUBO file (Interval: -2,2, step size: 1) (default: 'pattern_qubos/pattern_qubos_2_2.pkl')",
         )
-
+        parser.add_argument(
+                "--seed",
+                default=42,  # Default to this seed
+                help="seed for random pattern qubo choice",
+        )
         args = parser.parse_args()
 
         pqf = PatternQUBOFinder(20)
         pattern_qubos = pqf.load(args.pattern_qubo_file)
 
         gs_obj = TabuGroundStatesGenerator(formula_path=args.formula_path, pattern_qubo_dict=pattern_qubos,
-                                           use_random_pattern_choices=args.use_random, num_random_patterns=args.num_random,
+                                           use_random_pattern_choices=args.use_random, num_random_patterns=args.num_random, seed= args.seed,
                                            num_reads = args.num_reads, time_out=args.timeout_TABU,mini_sat_timeout=args.timeout_minisat)
         gs_obj.count_gs_tabu_search_and_plot()
 

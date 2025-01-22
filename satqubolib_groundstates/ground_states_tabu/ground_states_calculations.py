@@ -132,6 +132,7 @@ def generate_binary_inputs(num_variables):
 
 
 # ------------------------------------------------------------------------------------------------------------------
+# Helper functions for converting output from ALLSAT solver and sorting formulas
 
 def convert_solver_input(solution):
     """
@@ -139,6 +140,7 @@ def convert_solver_input(solution):
     solution: Minisat outputs of form (1 -2 -3 -4 -5 6 -7 -8 -9 10 11 -12 -13 14 -15 16 ...) for n variables for a Formula
     Converts the string from the solution file line by line to binary: if -x => 0 , otherwise 1
     Here: (1 -2 -3 -4 -5 6 -7 -8 -9 10 11 -12 -13 14 -15 16 ...) => (1 0 0 0 0 1 0 0 0 1 1 0 0 1 0 1 ...)
+    (Probably distinction of negation and non negation possible as well instead of 0/1)
     """
     binary_solution = ''.join('1' if num[0] != '-' else '0' for num in solution.split()[:-1])
     return binary_solution
@@ -159,7 +161,7 @@ def convert_solver_inputs_concurrent(solutions):
 def sort_formula(formula):
     """
     Sort formulas in order of the Type Clauses (negations at the end like in Pattern Qubo Paper)
-    (This is done in satqubolib automatically)
+    (This is now done in satqubolib automatically)
     """
     formula = [sorted(clause, reverse=True) for clause in formula]
     return formula

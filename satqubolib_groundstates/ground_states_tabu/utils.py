@@ -5,10 +5,13 @@ import os
 from ground_states_tabu.plot import *
 
 
-def choose_random_ids(pattern_qubo_dict, num_samples):
+def choose_random_ids(pattern_qubo_dict, num_samples, seed=None):
     """
     unique combinations necessary? - static set?
     """
+    if seed is not None:
+        random.seed(seed)
+
     random_ids = []
     for i in range(num_samples):
         ranges = [
@@ -58,7 +61,7 @@ def create_tabu_pandas_table():
 
 
 def fill_tabu_pandas_table(results, all_ground_states, empty_table: pd.DataFrame):
-    # unfortunatly very slow to do it otherwise
+    # unfortunatly very slow to do it otherwise with iteration over attributes (append very slow)
     dictionary_list = []
     column_names = empty_table.columns
 
@@ -72,7 +75,7 @@ def fill_tabu_pandas_table(results, all_ground_states, empty_table: pd.DataFrame
                 column_names[3]: row_input[3],  # Type 3 Id
                 column_names[4]: row_input[4],  # Si_num_min_clauses_satisfied,
                 column_names[5]: row_input[5],  # Si_num_max_clauses_satisfied,
-                column_names[6]: row_input[6]  # Si_avg_clauses_satisified
+                column_names[6]: row_input[6]   # Si_avg_clauses_satisified
             }
         dictionary_list.append(dictionary_data)
 
@@ -91,11 +94,11 @@ def save_tabu_pandas_table(result_table, output_dir):
 def plot_and_save(result_table, formula_name):
     #output_dir = os.path.join(os.getcwd(), f"{formula_name}_Tabu_Results")
     # This line here for saving is hardcoded to the Docker transient Directory
-    # This is for saving the results for Plots/dataframes on host machine directly - uncomment the line above if running directly
+    # This is for saving the results for Plots/dataframes on host machine directly - uncomment the line above if running directly on your machine
     output_dir = os.path.join("/satqubolib_groundstates/shared", f"{formula_name}_Tabu_Results")
 
     if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+        os.makedirs(output_dir, exist_ok=True)
     save_tabu_pandas_table(result_table, output_dir)
 
     plot_data(result_table, output_dir)

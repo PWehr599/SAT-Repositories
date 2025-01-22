@@ -21,9 +21,9 @@ if __name__ == '__main__':
         mini_sat_timeout: seconds for finding a solution before timeout
         (with large formulas the resulting sol.txt can get very large, make sure there is enough disk space)
         """
-        formula_path = 'dataset/no_triangle/800/0.cnf'
+        formula_path = 'test.cnf'
         pqf = PatternQUBOFinder(20)
-        pattern_qubos = pqf.load("pattern_qubos/pattern_qubos.pkl")
+        pattern_qubos = pqf.load("pattern_qubos/pattern_qubos_2_2.pkl")
         gs_obj = TabuGroundStatesGenerator(formula_path, pattern_qubos, True)
         gs_obj.count_gs_tabu_search_and_plot()
 

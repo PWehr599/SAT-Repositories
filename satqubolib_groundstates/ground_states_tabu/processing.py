@@ -45,7 +45,12 @@ def read_minisat_solutions(sol_file_path):
 
 
 def sampler_tabu(qubo_as_bqm, num_reads: int, timeout: int):
-
+    """
+    qubo_as_bqm: qubo reformatted as a dimod bqm model to run Tabu and Exact Samplers
+    num_reads: amount of reads generated
+    timeout: computation time allocated in milliseconds for one sample
+    Returns: output_vectors (generated solutions for the given qubo_as_bqm)
+    """
     samples = TabuSampler().sample(qubo_as_bqm, num_reads=num_reads, timeout=timeout)
     output_vectors = samples.record.sample
     return output_vectors

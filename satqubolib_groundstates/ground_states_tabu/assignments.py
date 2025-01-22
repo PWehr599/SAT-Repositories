@@ -13,6 +13,7 @@ def calculate_all_pattern_assignments(pattern_qubo_dict: dict):
     """
     pattern_qubo_dict: dict
     wraps all pattern qubos inside a dataclass
+    (Dict Key here corresponds to QUBO Type)
     """
     pattern_qubo_class_dict = {}
     for i in range(4):
@@ -38,7 +39,7 @@ def ground_state_assigments(qubo, type):
 
     Example: {'000': 1, '001': 2, '010': 2, '011': 1, '100': 1, '101': 1, '110': 1}
     => Ancilla configuration for each possible solution which can either be 1 or 2
-    => Exactly one wrong assignment for each possible Pattern Qubo Type, Type 0 being 0000/0001 Type 1 0010/0011 etc.
+    => Exactly one wrong assignment for each possible Pattern Qubo Type, Type 0 being 0000/0001, Type 1 0010/0011 etc.
     These are removed in the stacked type if statements - rest of the ground state calc. is simple counting
     """
     # TODO: Maybe iterate over len - 1 and add ancilla after
@@ -86,7 +87,7 @@ def ground_state_assigments(qubo, type):
 
 def all_binary_strings(n):
     """
-    Generate all possible bitstrings of size n
+    Generate all possible Bitstrings of size n
     """
     if n == 0:
         return ['']
