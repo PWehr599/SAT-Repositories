@@ -4,6 +4,7 @@ These procedures include noTriangle, Random and Balanced.
 <br /> 
 For a MAXSAT solver the [Loandra](https://github.com/jezberg/loandra) Solver was used. This solver performed very well in the [2024 MAXSAT Competition](https://maxsat-evaluations.github.io/2024/index.html).
 If you want to use this solver follow the build instructions in the repository and make sure the formulas are in wncf format.
+<br /> 
 Also, most MAXSAT solvers do not maximize clauses for unsatisfiable formulas, Loandra optimizes the number of clauses even if the formula is UNSAT.
 <br />
 This repository contains the amount of unsatisfiable clauses for each formula and the solution time the solver took in seconds.
