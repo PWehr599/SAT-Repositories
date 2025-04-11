@@ -8,6 +8,6 @@ If you want to use this solver follow the build instructions in the repository a
 Also, most MAXSAT solvers do not maximize clauses for unsatisfiable formulas, Loandra optimizes the number of clauses even if the formula is UNSAT.
 <br />
 This repository contains the amount of unsatisfiable clauses for each formula and the solution time the solver took in seconds.
-For each formula the solver had an allocated solution time of 2h (7200s). If it's exceeded, the solution process is cutoff.
+For each formula the solver had an allocated solution time of 2h (7200s) on a Intel(R) Core(TM) i7-8700 CPU @ 3.20GHz. If it's exceeded, the solution process is cutoff.
 <br /> 
 This data is recorded in the tables folder for all procedures.
