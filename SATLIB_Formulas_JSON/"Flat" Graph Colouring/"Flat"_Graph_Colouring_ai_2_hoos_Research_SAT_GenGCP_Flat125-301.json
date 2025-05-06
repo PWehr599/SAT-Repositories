@@ -1,0 +1,502 @@
+[
+    {
+        "cnf_filename": "flat125-4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-16.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-17.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-5.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-7.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-15.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-29.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-28.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat125-14.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-6.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-38.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-10.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-11.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-39.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-13.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-12.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-75.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-61.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-49.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-48.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-60.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-74.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-89.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-62.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-76.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "flat125-77.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat125-63.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-88.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-100.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-98.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-67.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-73.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-72.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-66.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-99.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-58.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-70.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-64.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-65.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-71.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-59.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-97.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-83.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-54.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-40.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-68.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-69.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-41.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-55.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-82.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-96.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-80.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-94.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-43.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-57.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-56.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-42.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-95.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-81.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat125-85.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat125-91.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-46.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-52.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-53.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-47.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-90.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-84.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-92.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-86.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-79.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-51.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-45.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-44.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-50.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-78.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-87.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-93.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-37.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-23.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-22.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-36.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-20.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-34.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-35.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-21.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-19.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-25.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-31.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-30.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-24.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-18.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "flat125-8.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-32.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-26.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-27.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-33.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat125-9.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    }
+]

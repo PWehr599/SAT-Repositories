@@ -1,0 +1,27 @@
+[
+    {
+        "cnf_filename": "hole10.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 2.8
+    },
+    {
+        "cnf_filename": "hole7.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "hole6.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "hole8.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.13
+    },
+    {
+        "cnf_filename": "hole9.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.32
+    }
+]

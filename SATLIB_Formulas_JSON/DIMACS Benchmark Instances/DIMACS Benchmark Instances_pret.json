@@ -1,0 +1,42 @@
+[
+    {
+        "cnf_filename": "60_160_1.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "60_160_3.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "60_160_2.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "60_160_4.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "150_400_4.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "150_400_1.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "150_400_2.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "150_400_3.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    }
+]

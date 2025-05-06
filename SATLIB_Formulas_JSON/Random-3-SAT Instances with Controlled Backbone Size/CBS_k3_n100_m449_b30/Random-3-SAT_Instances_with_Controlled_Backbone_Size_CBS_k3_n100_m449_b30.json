@@ -1,0 +1,5002 @@
+[
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_140.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_626.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_632.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_154.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_168.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_183.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_829.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_197.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_801.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_815.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_424.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_342.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_356.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_430.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_418.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_381.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_395.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_550.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_236.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_222.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_544.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_578.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_593.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_587.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_20.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_34.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_752.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_6.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_746.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_791.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_949.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_785.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_975.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_961.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_960.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_974.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_784.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_948.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_790.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_747.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_7.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_753.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_35.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_21.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_586.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_592.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_579.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_223.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_545.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_551.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_237.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_394.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_380.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_419.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_357.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_431.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_425.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_343.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_814.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_800.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_828.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_196.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_182.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_169.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_633.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_155.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_141.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_627.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_157.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_631.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_625.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_143.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_619.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_194.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_180.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.11
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_816.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_802.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_433.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_355.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_341.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_427.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_369.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_396.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_382.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_547.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_221.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_235.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_553.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.09
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_209.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_584.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_590.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_37.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_23.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_5.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_745.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_989.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_751.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_779.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_786.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_792.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_962.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_976.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_977.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_963.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_793.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_787.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_778.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_750.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_988.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_744.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_22.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_36.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_591.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_585.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_208.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_234.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_552.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_546.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_220.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_383.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_397.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_368.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_340.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.1
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_426.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_432.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_354.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_803.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_817.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_181.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_195.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_618.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_624.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_142.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_156.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_630.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_608.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_634.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_152.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_146.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_620.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_813.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_807.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_191.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_185.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_378.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_350.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_436.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_422.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_344.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_393.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_387.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_218.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_224.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_542.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_556.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_230.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_32.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_26.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_581.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_595.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_768.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_998.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_740.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_0.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.1
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_754.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_967.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_973.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_783.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_797.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_796.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_782.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_972.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_966.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_755.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_741.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_999.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.1
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_769.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_594.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_580.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_27.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_33.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_557.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_231.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_225.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_543.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_219.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_386.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_392.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_423.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_345.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_351.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_437.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_379.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_184.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_190.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_806.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_812.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_147.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_621.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_635.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_153.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_609.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_179.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_623.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_145.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_151.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_637.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_804.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_810.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_838.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_186.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_192.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_409.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_347.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_421.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_435.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_353.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_384.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_390.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_569.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_233.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_555.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_541.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_227.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_25.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_31.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_19.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_596.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_582.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_757.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_743.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_970.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_964.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_794.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_780.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_958.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_959.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_781.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_795.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_965.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_971.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_742.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_756.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_583.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_597.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_18.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_30.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_24.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_540.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_226.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_232.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_554.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_568.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_391.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_385.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_434.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_352.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_346.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_420.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_408.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_193.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_839.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_187.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_811.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_805.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_150.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_636.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_622.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_144.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_178.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_645.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_123.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_137.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_651.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_889.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_679.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_686.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_692.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_862.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_876.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_321.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_447.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_453.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_335.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_309.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_484.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_490.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_255.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_533.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_527.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_241.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_269.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_80.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_94.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_296.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_282.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_43.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_57.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_731.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_725.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_719.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_916.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_902.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_903.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_917.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_718.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_724.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_730.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_56.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_42.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_283.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_297.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_95.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_268.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_81.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_526.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_240.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_254.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_532.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_491.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_485.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_308.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_452.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_334.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_320.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_446.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_877.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_863.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_693.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_687.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_678.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_136.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_888.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_650.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_644.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_122.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_652.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_134.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_120.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_646.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_108.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_849.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_691.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_685.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_875.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_861.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_336.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_450.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_444.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_322.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_478.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_493.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_487.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_242.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_524.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_530.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_256.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_518.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_97.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_83.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_281.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_68.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_295.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_54.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_40.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_726.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_732.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_929.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_901.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_915.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_914.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_900.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_928.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_733.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_727.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_41.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_55.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_294.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_280.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_69.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_82.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_96.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_519.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_531.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_257.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_243.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_525.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_486.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_492.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_479.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_445.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_323.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_337.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_451.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_860.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_874.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_684.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_690.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_848.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_109.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_121.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_647.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_653.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_135.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_119.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_131.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_657.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_643.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_125.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_870.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_864.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_694.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_858.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_680.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_469.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_455.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_333.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_327.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_441.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_496.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_482.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_92.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_509.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_86.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_521.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_247.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_253.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_535.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_51.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_45.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_284.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_290.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_79.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_723.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_737.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_904.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_910.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_938.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_939.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_911.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_905.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_736.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_722.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_291.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_78.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_285.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_44.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_50.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_252.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_534.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_520.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_246.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_87.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_508.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_93.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_483.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_497.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_326.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_440.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_454.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_332.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_468.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_681.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_859.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_695.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_865.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_871.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_642.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_124.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_130.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_656.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_118.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_668.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_126.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_640.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_898.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_654.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_132.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_867.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_873.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_683.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_697.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_318.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_442.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.1
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_324.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_330.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_456.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_481.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_495.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_85.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_278.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_91.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_536.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_250.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_244.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_522.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_46.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_52.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_293.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_287.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_708.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_734.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_720.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_913.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_907.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_906.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_912.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_721.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_735.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_709.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_286.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_292.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_53.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_47.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_245.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_523.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_537.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_251.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_279.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_90.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_84.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_494.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_480.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_331.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_457.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_443.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_325.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_319.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_696.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_682.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_872.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_866.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_655.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_133.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_127.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_899.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_641.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_669.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_664.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_102.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_116.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_670.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_658.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_880.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_894.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_843.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_857.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_300.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_466.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_472.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_314.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_328.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_499.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_274.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_512.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_506.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_89.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_260.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_248.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_62.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_76.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_710.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_704.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_738.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_937.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_923.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_922.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_936.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_739.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_705.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_711.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_77.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_63.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_249.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_88.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_507.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_261.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_275.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_513.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_498.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_329.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_473.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_315.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_301.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_467.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_856.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_842.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_895.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_881.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_659.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_117.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_671.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_665.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_103.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_673.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_115.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_101.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_667.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_897.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_129.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_883.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_868.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_854.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_840.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_698.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_317.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_471.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_465.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_303.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_459.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_263.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_505.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_511.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_277.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_539.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_49.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_75.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_61.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_288.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_707.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_713.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_908.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_920.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_934.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_935.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_921.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_909.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_712.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_706.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_60.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_289.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_74.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_48.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_538.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_510.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_276.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_262.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_504.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_458.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_464.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_302.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_316.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_470.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_699.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_841.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_855.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_869.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_882.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_896.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_128.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_100.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_666.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_672.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_114.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_892.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_886.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_138.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_110.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_676.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_662.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_104.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_851.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_689.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_845.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_879.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_448.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_474.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_312.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_306.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_460.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_528.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_500.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_266.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_272.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_514.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_70.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_299.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_64.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_58.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_702.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_716.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_925.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_931.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_919.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_918.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_930.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_924.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_717.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_703.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_59.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_65.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_71.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_298.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_273.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_515.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_501.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_267.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_529.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_307.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_461.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_475.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_313.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_449.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_878.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_844.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_688.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_850.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_663.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_105.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_111.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_677.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_887.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_139.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_893.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_885.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_649.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_891.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_107.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_661.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_675.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_113.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_846.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_852.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_339.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_463.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_305.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.09
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_311.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_477.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_488.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_259.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_517.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_98.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_271.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_265.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_503.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_67.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_73.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_729.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_715.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_701.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_932.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_926.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_927.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_933.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_700.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_714.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_728.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_72.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_66.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_264.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_502.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_99.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_516.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_270.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_258.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_489.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_310.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_476.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_462.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_304.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_338.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_853.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_847.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_674.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_112.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_106.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_660.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_890.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_648.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_884.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_161.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_607.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_613.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_175.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_149.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_808.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_820.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_834.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_405.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_363.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_377.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_411.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_439.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_388.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_571.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_217.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_203.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_565.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_559.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_29.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_15.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_773.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_767.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_997.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_983.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_968.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_954.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_798.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_940.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_941.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_799.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_955.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_969.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_982.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_996.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_766.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_772.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_14.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_28.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_558.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_202.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_564.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_570.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_216.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_389.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_438.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_376.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_410.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_404.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_362.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_835.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_821.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_809.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_148.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_612.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_174.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_160.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_606.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_176.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_610.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_604.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_162.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_638.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_189.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_837.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_823.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_412.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_374.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_360.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_406.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_348.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_566.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_200.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_214.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_572.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_228.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_16.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_599.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_764.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_770.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_980.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_758.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_994.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_943.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_957.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_956.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_942.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_995.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_759.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_981.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_771.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_765.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_598.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_17.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_229.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_215.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_573.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_567.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_201.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_349.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_361.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_407.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_413.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_375.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_822.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_188.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_836.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_639.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_605.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_163.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_177.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_611.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_629.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_615.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_173.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_167.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_601.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_832.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_198.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_826.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_359.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_371.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_417.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_403.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_365.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_239.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_205.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_563.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_577.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_211.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_13.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_588.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_985.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_991.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_749.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_9.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_761.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_775.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_946.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_952.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_953.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_947.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_774.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_760.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_8.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_748.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_990.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_984.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_589.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_12.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_576.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_210.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_204.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_562.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_238.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_402.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_364.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_370.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_416.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_358.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_199.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_827.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_833.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_166.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_600.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_614.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_172.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_628.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_158.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_602.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_164.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_170.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_616.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_825.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_831.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_819.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_428.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_366.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_400.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_414.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_372.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_399.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_548.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_212.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_574.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_560.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_206.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_10.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_38.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_992.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_986.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_776.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_762.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_789.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_951.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_945.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_979.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_978.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_944.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_950.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_788.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_763.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_777.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_987.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_993.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_39.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_11.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_561.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_207.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_213.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_575.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_549.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_398.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_415.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_373.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_367.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_401.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_429.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_818.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_830.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_824.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_171.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_617.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_603.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_165.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "CBS_k3_n100_m449_b30_159.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    }
+]

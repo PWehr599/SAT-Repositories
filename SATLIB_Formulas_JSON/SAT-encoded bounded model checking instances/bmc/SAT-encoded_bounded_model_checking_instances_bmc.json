@@ -1,0 +1,67 @@
+[
+    {
+        "cnf_filename": "bmc-ibm-3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.25
+    },
+    {
+        "cnf_filename": "bmc-ibm-2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "bmc-ibm-1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.35
+    },
+    {
+        "cnf_filename": "bmc-ibm-5.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.09
+    },
+    {
+        "cnf_filename": "bmc-ibm-4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.3
+    },
+    {
+        "cnf_filename": "bmc-ibm-6.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 3.17
+    },
+    {
+        "cnf_filename": "bmc-ibm-7.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "bmc-ibm-10.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.79
+    },
+    {
+        "cnf_filename": "bmc-ibm-11.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.47
+    },
+    {
+        "cnf_filename": "bmc-ibm-13.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.62
+    },
+    {
+        "cnf_filename": "bmc-ibm-12.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 1.66
+    },
+    {
+        "cnf_filename": "bmc-galileo-9.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 1.16
+    },
+    {
+        "cnf_filename": "bmc-galileo-8.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.84
+    }
+]

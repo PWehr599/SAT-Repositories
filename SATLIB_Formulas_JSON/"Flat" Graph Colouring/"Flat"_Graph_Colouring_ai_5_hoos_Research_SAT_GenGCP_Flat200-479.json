@@ -1,0 +1,502 @@
+[
+    {
+        "cnf_filename": "flat200-5.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.19
+    },
+    {
+        "cnf_filename": "flat200-10.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "flat200-38.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "flat200-39.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-11.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "flat200-6.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "flat200-13.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "flat200-12.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "flat200-7.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "flat200-3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-16.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-17.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "flat200-2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "flat200-29.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "flat200-15.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-14.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "flat200-28.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.1
+    },
+    {
+        "cnf_filename": "flat200-98.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-67.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "flat200-73.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-72.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-66.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-99.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-70.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-64.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-58.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-59.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-65.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-71.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-49.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat200-75.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-61.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-60.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.1
+    },
+    {
+        "cnf_filename": "flat200-74.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.11
+    },
+    {
+        "cnf_filename": "flat200-48.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-89.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-62.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.1
+    },
+    {
+        "cnf_filename": "flat200-76.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-77.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "flat200-63.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-88.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat200-85.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-91.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-46.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-52.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-53.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat200-47.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-90.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-84.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-92.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-86.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat200-51.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-45.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-79.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "flat200-78.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-44.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "flat200-50.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "flat200-87.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-93.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-97.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-83.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-68.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-54.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "flat200-40.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-41.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "flat200-55.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-69.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-82.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-96.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-80.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-94.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-43.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-57.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "flat200-56.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-42.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-95.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-81.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.1
+    },
+    {
+        "cnf_filename": "flat200-25.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-31.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "flat200-19.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "flat200-18.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-30.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-24.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "flat200-32.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-26.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "flat200-27.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-33.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-100.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-37.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "flat200-23.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-22.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-36.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "flat200-9.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-20.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-34.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "flat200-35.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-21.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "flat200-8.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    }
+]

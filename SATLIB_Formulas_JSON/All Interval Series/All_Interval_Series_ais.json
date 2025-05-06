@@ -1,0 +1,22 @@
+[
+    {
+        "cnf_filename": "ais6.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ais8.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ais10.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ais12.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "cnf_filename": "hanoi4_2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 1.47
+    },
+    {
+        "cnf_filename": "hanoi4_1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.09
+    }
+]

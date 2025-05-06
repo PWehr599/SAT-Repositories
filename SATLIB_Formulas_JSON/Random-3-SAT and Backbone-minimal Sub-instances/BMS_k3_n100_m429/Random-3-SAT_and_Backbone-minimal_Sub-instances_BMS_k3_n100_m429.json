@@ -1,0 +1,2502 @@
+[
+    {
+        "cnf_filename": "BMS_k3_n100_m429_452.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_334.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_320.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_446.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_308.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_491.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_485.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_13.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_136.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_122.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_7.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_240.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_254.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_268.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_283.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_297.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_296.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_282.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_269.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_255.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_241.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_6.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_123.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_137.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_12.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_484.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_490.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_309.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_321.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_447.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_453.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_335.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_445.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_323.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_337.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_451.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_479.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_486.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_38.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_492.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_10.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_121.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_135.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_109.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_257.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_243.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_294.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_280.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_281.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_295.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_242.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_256.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_5.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_108.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_134.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_120.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_11.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_493.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_487.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_39.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_478.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_336.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_450.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_444.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_322.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_468.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_326.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_440.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_454.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_332.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_15.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_483.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_497.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_29.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_118.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_124.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_130.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_252.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_246.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_291.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_285.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_284.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_290.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_247.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_253.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_0.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_131.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_125.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_119.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_496.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_28.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_482.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_14.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_455.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_333.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_327.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_441.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_469.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_319.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_331.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_457.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_443.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_325.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_16.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_494.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_480.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_133.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_127.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_279.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_245.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_251.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_286.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_292.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_293.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_287.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_250.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_244.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_278.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_126.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_132.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_481.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_495.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_17.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_442.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_324.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_330.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_456.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_318.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_357.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_431.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_425.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_343.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_419.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_394.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_380.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_58.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_70.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_64.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_155.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_141.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_169.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_196.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_182.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_223.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_237.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_236.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_222.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_183.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_197.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_168.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_140.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_154.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_65.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_71.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_59.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_381.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_395.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_418.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_424.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_342.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_356.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_430.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_98.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_340.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_426.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_432.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_354.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_368.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_383.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_397.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_67.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_73.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_142.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_156.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_181.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_195.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_234.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_220.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_208.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_209.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_221.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_235.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_194.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_180.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_157.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_143.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_72.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_66.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_396.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_382.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_369.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_433.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_355.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_341.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_99.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_427.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_379.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_423.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_345.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_351.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_89.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_437.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_62.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_76.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_386.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_392.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_147.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_153.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_184.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_190.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_219.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_231.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_225.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_224.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_230.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_218.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_191.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_185.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_152.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_146.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_393.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_387.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_77.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_63.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_88.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_350.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_436.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_422.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_344.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_378.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_408.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_434.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_352.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_346.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_420.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_75.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_61.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_49.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_391.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_385.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_178.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_150.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_144.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_193.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_187.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.11
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_226.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_232.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_233.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_227.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_186.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_192.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_145.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_151.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_179.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_384.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_390.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_48.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_60.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_74.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_347.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_421.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_435.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_353.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_409.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_376.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_410.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_404.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_362.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_92.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_438.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_86.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_79.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_51.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_389.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_45.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_174.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_160.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.12
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_148.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_202.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_216.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_217.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_203.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_149.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_161.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_175.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_44.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_388.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_50.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_78.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_439.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_87.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_93.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_405.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_363.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_377.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_411.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_361.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_407.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_413.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_375.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_85.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_349.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_91.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_46.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_52.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_163.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_177.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_188.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_215.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_201.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_229.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_228.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_200.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_214.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_189.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_176.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_162.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_53.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_47.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_90.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_348.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_84.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_412.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_374.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_360.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_406.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_80.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_358.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_94.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_402.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_364.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_370.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_416.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_43.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_57.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_166.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_172.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_199.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_238.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_210.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_204.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_205.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_211.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_239.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_198.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_173.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_167.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_56.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_42.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_371.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_417.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_403.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_365.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_95.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_359.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_81.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_429.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_97.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_83.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_415.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_373.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_367.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_401.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_54.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_398.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_40.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_68.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_159.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_171.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_165.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_207.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_213.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_212.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_206.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_164.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_170.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_158.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_69.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_41.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_399.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_55.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_366.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_400.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_414.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_372.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_82.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_428.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_96.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_473.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_315.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_301.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_467.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_329.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_32.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_26.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_498.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_117.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_103.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_261.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_275.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_249.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_248.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_274.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_260.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_102.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_116.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_27.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_499.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_33.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_328.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_300.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_466.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_472.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_314.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_464.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_302.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_316.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_470.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_458.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_19.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_25.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_31.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_100.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_114.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_128.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_276.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_262.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_289.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_288.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_263.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_277.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_129.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_115.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_101.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_30.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_24.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_18.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_459.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_317.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_471.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_465.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.12
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_303.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_449.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_307.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_461.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_475.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_313.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_20.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_34.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_139.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_105.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_111.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_8.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_273.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_267.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_298.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_299.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_266.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_272.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_9.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_110.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_104.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_138.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_35.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_21.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_474.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_312.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_306.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_460.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_448.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_338.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_310.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_476.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_462.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_304.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_37.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_489.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_23.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_112.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_106.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_258.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_264.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_270.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_271.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_265.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_259.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_107.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_113.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_22.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_36.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_488.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_463.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_305.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_311.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_477.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "BMS_k3_n100_m429_339.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    }
+]

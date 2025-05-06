@@ -1,0 +1,502 @@
+[
+    {
+        "cnf_filename": "sw100-23.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "sw100-37.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-36.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-22.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-34.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-20.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-21.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-35.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-31.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-25.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-19.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "sw100-18.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "sw100-24.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-30.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-26.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-32.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-33.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-27.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-83.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-97.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-68.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "sw100-40.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-54.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "sw100-55.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-41.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-5.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-69.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-96.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-82.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "sw100-94.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-80.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-7.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "sw100-57.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-43.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "sw100-42.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-56.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-6.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-81.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-95.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "sw100-91.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "sw100-85.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "sw100-52.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-46.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "sw100-47.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "sw100-53.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-84.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-90.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-86.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-92.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-45.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-51.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-79.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "sw100-78.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-50.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-44.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-93.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "sw100-87.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-49.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-61.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-75.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-74.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-60.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "sw100-48.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "sw100-100.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-89.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-76.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-62.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "sw100-63.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-77.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-88.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-98.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-73.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-67.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "sw100-66.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-72.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-99.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-8.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-64.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-70.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-58.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-59.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "sw100-71.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-65.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "sw100-9.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-16.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-17.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-29.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-15.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-14.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-28.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-10.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-38.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "sw100-39.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "sw100-11.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-13.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "sw100-12.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    }
+]

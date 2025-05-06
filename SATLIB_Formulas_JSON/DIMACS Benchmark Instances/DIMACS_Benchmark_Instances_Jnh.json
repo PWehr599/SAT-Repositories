@@ -1,0 +1,252 @@
+[
+    {
+        "cnf_filename": "jnh214.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh201.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "jnh215.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh203.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh217.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "jnh216.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh202.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh206.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "jnh212.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "jnh213.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh207.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh211.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh205.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "jnh204.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.02
+    },
+    {
+        "cnf_filename": "jnh210.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "jnh12.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh303.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "jnh302.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh13.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh11.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh2.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh301.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "jnh3.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "jnh10.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh14.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh7.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh305.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh304.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh6.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh310.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh15.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh17.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "jnh306.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "jnh4.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh5.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "jnh307.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh16.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "jnh8.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh9.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh18.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh309.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh308.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh19.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh20.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh209.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "jnh208.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "jnh220.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "jnh218.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "jnh219.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    }
+]

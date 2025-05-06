@@ -1,0 +1,67 @@
+[
+    {
+        "cnf_filename": "dubois100_9.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "dubois100_8.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "dubois100_10.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "dubois29_2.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "dubois29_0.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "dubois29_1.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "dubois100_5.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "dubois100_4.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "dubois100_6.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "dubois100_7.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "dubois100_3.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "dubois100_2.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "dubois100_0.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.0
+    }
+]

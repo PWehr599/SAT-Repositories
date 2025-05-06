@@ -1,0 +1,497 @@
+[
+    {
+        "cnf_filename": "uuf200-047.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.66
+    },
+    {
+        "cnf_filename": "uuf200-053.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.46
+    },
+    {
+        "cnf_filename": "uuf200-084.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.34
+    },
+    {
+        "cnf_filename": "uuf200-090.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.43
+    },
+    {
+        "cnf_filename": "uuf200-091.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.63
+    },
+    {
+        "cnf_filename": "uuf200-085.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.46
+    },
+    {
+        "cnf_filename": "uuf200-052.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.51
+    },
+    {
+        "cnf_filename": "uuf200-046.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.89
+    },
+    {
+        "cnf_filename": "uuf200-050.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.77
+    },
+    {
+        "cnf_filename": "uuf200-044.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.6
+    },
+    {
+        "cnf_filename": "uuf200-078.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.6
+    },
+    {
+        "cnf_filename": "uuf200-093.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.78
+    },
+    {
+        "cnf_filename": "uuf200-087.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.83
+    },
+    {
+        "cnf_filename": "uuf200-086.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.63
+    },
+    {
+        "cnf_filename": "uuf200-092.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.59
+    },
+    {
+        "cnf_filename": "uuf200-079.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.86
+    },
+    {
+        "cnf_filename": "uuf200-045.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 1.15
+    },
+    {
+        "cnf_filename": "uuf200-051.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.69
+    },
+    {
+        "cnf_filename": "uuf200-069.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.24
+    },
+    {
+        "cnf_filename": "uuf200-055.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.33
+    },
+    {
+        "cnf_filename": "uuf200-041.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.42
+    },
+    {
+        "cnf_filename": "uuf200-096.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.25
+    },
+    {
+        "cnf_filename": "uuf200-082.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.42
+    },
+    {
+        "cnf_filename": "uuf200-083.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.53
+    },
+    {
+        "cnf_filename": "uuf200-097.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.33
+    },
+    {
+        "cnf_filename": "uuf200-040.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.42
+    },
+    {
+        "cnf_filename": "uuf200-054.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.76
+    },
+    {
+        "cnf_filename": "uuf200-068.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.53
+    },
+    {
+        "cnf_filename": "uuf200-042.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.4
+    },
+    {
+        "cnf_filename": "uuf200-056.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.59
+    },
+    {
+        "cnf_filename": "uuf200-081.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.57
+    },
+    {
+        "cnf_filename": "uuf200-095.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.54
+    },
+    {
+        "cnf_filename": "uuf200-094.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.64
+    },
+    {
+        "cnf_filename": "uuf200-080.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.5
+    },
+    {
+        "cnf_filename": "uuf200-057.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.32
+    },
+    {
+        "cnf_filename": "uuf200-043.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.4
+    },
+    {
+        "cnf_filename": "uuf200-024.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.75
+    },
+    {
+        "cnf_filename": "uuf200-030.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.34
+    },
+    {
+        "cnf_filename": "uuf200-018.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.54
+    },
+    {
+        "cnf_filename": "uuf200-09.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.43
+    },
+    {
+        "cnf_filename": "uuf200-08.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.58
+    },
+    {
+        "cnf_filename": "uuf200-019.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.44
+    },
+    {
+        "cnf_filename": "uuf200-031.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.39
+    },
+    {
+        "cnf_filename": "uuf200-025.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.87
+    },
+    {
+        "cnf_filename": "uuf200-033.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.39
+    },
+    {
+        "cnf_filename": "uuf200-027.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.43
+    },
+    {
+        "cnf_filename": "uuf200-026.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.59
+    },
+    {
+        "cnf_filename": "uuf200-032.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.55
+    },
+    {
+        "cnf_filename": "uuf200-036.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.77
+    },
+    {
+        "cnf_filename": "uuf200-022.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.52
+    },
+    {
+        "cnf_filename": "uuf200-023.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.27
+    },
+    {
+        "cnf_filename": "uuf200-037.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.58
+    },
+    {
+        "cnf_filename": "uuf200-021.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.32
+    },
+    {
+        "cnf_filename": "uuf200-035.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.51
+    },
+    {
+        "cnf_filename": "uuf200-034.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.35
+    },
+    {
+        "cnf_filename": "uuf200-020.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.24
+    },
+    {
+        "cnf_filename": "uuf200-011.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.52
+    },
+    {
+        "cnf_filename": "uuf200-039.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.42
+    },
+    {
+        "cnf_filename": "uuf200-01.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.36
+    },
+    {
+        "cnf_filename": "uuf200-038.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.49
+    },
+    {
+        "cnf_filename": "uuf200-010.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.68
+    },
+    {
+        "cnf_filename": "uuf200-012.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.91
+    },
+    {
+        "cnf_filename": "uuf200-03.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.35
+    },
+    {
+        "cnf_filename": "uuf200-02.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.52
+    },
+    {
+        "cnf_filename": "uuf200-013.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.46
+    },
+    {
+        "cnf_filename": "uuf200-017.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.44
+    },
+    {
+        "cnf_filename": "uuf200-06.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.39
+    },
+    {
+        "cnf_filename": "uuf200-07.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.42
+    },
+    {
+        "cnf_filename": "uuf200-016.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.45
+    },
+    {
+        "cnf_filename": "uuf200-028.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.5
+    },
+    {
+        "cnf_filename": "uuf200-014.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.76
+    },
+    {
+        "cnf_filename": "uuf200-05.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.75
+    },
+    {
+        "cnf_filename": "uuf200-04.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 2.66
+    },
+    {
+        "cnf_filename": "uuf200-015.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.58
+    },
+    {
+        "cnf_filename": "uuf200-029.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.74
+    },
+    {
+        "cnf_filename": "uuf200-066.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 1.9
+    },
+    {
+        "cnf_filename": "uuf200-072.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 1.0
+    },
+    {
+        "cnf_filename": "uuf200-099.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 1.09
+    },
+    {
+        "cnf_filename": "uuf200-098.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 1.05
+    },
+    {
+        "cnf_filename": "uuf200-073.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.59
+    },
+    {
+        "cnf_filename": "uuf200-067.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.75
+    },
+    {
+        "cnf_filename": "uuf200-071.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.54
+    },
+    {
+        "cnf_filename": "uuf200-065.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.55
+    },
+    {
+        "cnf_filename": "uuf200-059.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.59
+    },
+    {
+        "cnf_filename": "uuf200-058.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 1.1
+    },
+    {
+        "cnf_filename": "uuf200-064.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 1.53
+    },
+    {
+        "cnf_filename": "uuf200-070.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.57
+    },
+    {
+        "cnf_filename": "uuf200-048.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.75
+    },
+    {
+        "cnf_filename": "uuf200-074.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.92
+    },
+    {
+        "cnf_filename": "uuf200-060.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.43
+    },
+    {
+        "cnf_filename": "uuf200-061.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.3
+    },
+    {
+        "cnf_filename": "uuf200-075.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.76
+    },
+    {
+        "cnf_filename": "uuf200-049.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.62
+    },
+    {
+        "cnf_filename": "uuf200-063.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.83
+    },
+    {
+        "cnf_filename": "uuf200-077.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.53
+    },
+    {
+        "cnf_filename": "uuf200-088.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.43
+    },
+    {
+        "cnf_filename": "uuf200-089.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.49
+    },
+    {
+        "cnf_filename": "uuf200-076.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.26
+    },
+    {
+        "cnf_filename": "uuf200-062.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.27
+    }
+]

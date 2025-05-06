@@ -1,0 +1,17 @@
+[
+    {
+        "cnf_filename": "f1000.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 74.99
+    },
+    {
+        "cnf_filename": "f600.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 6.93
+    },
+    {
+        "cnf_filename": "f2000.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 50.07
+    }
+]

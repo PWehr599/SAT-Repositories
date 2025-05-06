@@ -1,0 +1,207 @@
+[
+    {
+        "cnf_filename": "ii32e2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii16e2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "ii32e3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii8a1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii8a3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii32e1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii16e1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "ii8a2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii32e4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.09
+    },
+    {
+        "cnf_filename": "ii16d1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.18
+    },
+    {
+        "cnf_filename": "ii32d1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "ii32e5.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "ii32d3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.49
+    },
+    {
+        "cnf_filename": "ii16d2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii32d2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.11
+    },
+    {
+        "cnf_filename": "ii8a4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii32c1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii16c1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "ii32b4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.1
+    },
+    {
+        "cnf_filename": "ii32c2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii16c2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii32c3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.21
+    },
+    {
+        "cnf_filename": "ii32b3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.22
+    },
+    {
+        "cnf_filename": "ii16b2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii32b2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.1
+    },
+    {
+        "cnf_filename": "ii32c4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.09
+    },
+    {
+        "cnf_filename": "ii16b1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.17
+    },
+    {
+        "cnf_filename": "ii32b1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii8e2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii16a1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii32a1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.28
+    },
+    {
+        "cnf_filename": "ii8e1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii16a2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii8d1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii8d2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii8c1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii8b4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii8c2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii8b3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii8b2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ii8b1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    }
+]

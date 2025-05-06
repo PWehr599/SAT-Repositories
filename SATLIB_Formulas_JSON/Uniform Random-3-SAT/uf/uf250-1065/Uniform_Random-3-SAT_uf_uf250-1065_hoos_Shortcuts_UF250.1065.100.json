@@ -1,0 +1,502 @@
+[
+    {
+        "cnf_filename": "uf250-023.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.34
+    },
+    {
+        "cnf_filename": "uf250-037.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "uf250-036.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.34
+    },
+    {
+        "cnf_filename": "uf250-022.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 1.49
+    },
+    {
+        "cnf_filename": "uf250-0100.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 3.57
+    },
+    {
+        "cnf_filename": "uf250-034.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.75
+    },
+    {
+        "cnf_filename": "uf250-020.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-021.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-035.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-09.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 2.32
+    },
+    {
+        "cnf_filename": "uf250-031.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.87
+    },
+    {
+        "cnf_filename": "uf250-025.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.09
+    },
+    {
+        "cnf_filename": "uf250-019.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "uf250-018.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 1.1
+    },
+    {
+        "cnf_filename": "uf250-024.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.71
+    },
+    {
+        "cnf_filename": "uf250-030.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.12
+    },
+    {
+        "cnf_filename": "uf250-08.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.27
+    },
+    {
+        "cnf_filename": "uf250-026.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 1.41
+    },
+    {
+        "cnf_filename": "uf250-032.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.72
+    },
+    {
+        "cnf_filename": "uf250-033.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-027.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.48
+    },
+    {
+        "cnf_filename": "uf250-068.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-040.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.4
+    },
+    {
+        "cnf_filename": "uf250-054.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.78
+    },
+    {
+        "cnf_filename": "uf250-083.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.12
+    },
+    {
+        "cnf_filename": "uf250-097.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.65
+    },
+    {
+        "cnf_filename": "uf250-096.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.11
+    },
+    {
+        "cnf_filename": "uf250-082.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "uf250-055.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.1
+    },
+    {
+        "cnf_filename": "uf250-041.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.09
+    },
+    {
+        "cnf_filename": "uf250-069.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 1.14
+    },
+    {
+        "cnf_filename": "uf250-057.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.36
+    },
+    {
+        "cnf_filename": "uf250-043.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 2.92
+    },
+    {
+        "cnf_filename": "uf250-094.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 2.1
+    },
+    {
+        "cnf_filename": "uf250-080.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.42
+    },
+    {
+        "cnf_filename": "uf250-081.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-095.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-042.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.09
+    },
+    {
+        "cnf_filename": "uf250-056.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 1.18
+    },
+    {
+        "cnf_filename": "uf250-052.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "uf250-046.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.27
+    },
+    {
+        "cnf_filename": "uf250-091.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-085.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-084.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "uf250-090.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 1.17
+    },
+    {
+        "cnf_filename": "uf250-047.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "uf250-053.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-045.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-051.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 2.44
+    },
+    {
+        "cnf_filename": "uf250-079.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.11
+    },
+    {
+        "cnf_filename": "uf250-086.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 1.2
+    },
+    {
+        "cnf_filename": "uf250-092.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "uf250-093.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 2.22
+    },
+    {
+        "cnf_filename": "uf250-087.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.61
+    },
+    {
+        "cnf_filename": "uf250-078.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.11
+    },
+    {
+        "cnf_filename": "uf250-050.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.34
+    },
+    {
+        "cnf_filename": "uf250-044.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-049.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-061.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "uf250-075.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.46
+    },
+    {
+        "cnf_filename": "uf250-074.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-060.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-048.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.72
+    },
+    {
+        "cnf_filename": "uf250-076.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 1.46
+    },
+    {
+        "cnf_filename": "uf250-062.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-089.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-088.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-063.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-077.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.34
+    },
+    {
+        "cnf_filename": "uf250-073.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-067.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.28
+    },
+    {
+        "cnf_filename": "uf250-098.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.54
+    },
+    {
+        "cnf_filename": "uf250-099.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "uf250-066.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-072.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 1.49
+    },
+    {
+        "cnf_filename": "uf250-064.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.08
+    },
+    {
+        "cnf_filename": "uf250-070.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 1.22
+    },
+    {
+        "cnf_filename": "uf250-058.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "uf250-059.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-071.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.98
+    },
+    {
+        "cnf_filename": "uf250-065.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.12
+    },
+    {
+        "cnf_filename": "uf250-06.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-016.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.11
+    },
+    {
+        "cnf_filename": "uf250-017.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.09
+    },
+    {
+        "cnf_filename": "uf250-07.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 2.06
+    },
+    {
+        "cnf_filename": "uf250-05.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.64
+    },
+    {
+        "cnf_filename": "uf250-029.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 1.3
+    },
+    {
+        "cnf_filename": "uf250-015.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-014.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-028.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-04.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-010.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.43
+    },
+    {
+        "cnf_filename": "uf250-038.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.77
+    },
+    {
+        "cnf_filename": "uf250-039.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-011.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 9.11
+    },
+    {
+        "cnf_filename": "uf250-01.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-03.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-013.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.07
+    },
+    {
+        "cnf_filename": "uf250-012.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.58
+    },
+    {
+        "cnf_filename": "uf250-02.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 1.52
+    }
+]

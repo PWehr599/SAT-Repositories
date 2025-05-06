@@ -1,0 +1,22 @@
+[
+    {
+        "cnf_filename": "bf1355-075.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "bf2670-001.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "bf1355-638.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "bf0432-007.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.05
+    }
+]

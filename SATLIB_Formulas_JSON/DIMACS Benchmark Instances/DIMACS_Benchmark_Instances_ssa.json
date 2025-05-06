@@ -1,0 +1,42 @@
+[
+    {
+        "cnf_filename": "c2670_tdl_2.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "c432_tdl.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "c7552_tdl_3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "c7552_tdl_2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "c6288_tld.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "c7552_tdl_4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "c7552_tdl.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "c2670_tdl.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 0.03
+    }
+]

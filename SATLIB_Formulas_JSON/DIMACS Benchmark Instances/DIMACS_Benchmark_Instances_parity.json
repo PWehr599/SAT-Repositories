@@ -1,0 +1,152 @@
+[
+    {
+        "cnf_filename": "par32-2-c.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 683.83
+    },
+    {
+        "cnf_filename": "par8-1-c.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "par16-3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "par8-4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "par32-4-c.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 2408.3
+    },
+    {
+        "cnf_filename": "par16-2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.09
+    },
+    {
+        "cnf_filename": "par16-5-c.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "par8-5.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "par8-2-c.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "par16-3-c.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "par32-3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 4214.9
+    },
+    {
+        "cnf_filename": "par16-2-c.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "par8-5-c.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "par32-3-c.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 32836.7
+    },
+    {
+        "cnf_filename": "par32-5.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 39178.14
+    },
+    {
+        "cnf_filename": "par8-3-c.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "par16-1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "par16-5.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "par32-5-c.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 25764.99
+    },
+    {
+        "cnf_filename": "par16-4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "par32-1-c.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 26650.91
+    },
+    {
+        "cnf_filename": "par32-4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 16105.43
+    },
+    {
+        "cnf_filename": "par8-4-c.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "par32-2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 8920.84
+    },
+    {
+        "cnf_filename": "par8-2.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "par32-1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 26232.09
+    },
+    {
+        "cnf_filename": "par16-1-c.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.03
+    },
+    {
+        "cnf_filename": "par16-4-c.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "par8-3.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.01
+    },
+    {
+        "cnf_filename": "par8-1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    }
+]

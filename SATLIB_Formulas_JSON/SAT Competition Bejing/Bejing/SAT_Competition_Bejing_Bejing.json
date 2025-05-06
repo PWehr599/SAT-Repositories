@@ -1,0 +1,82 @@
+[
+    {
+        "cnf_filename": "2bitadd_11.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "2bitadd_10.cnf",
+        "sat_status": "UNSATISFIABLE",
+        "process_time_seconds": 2.94
+    },
+    {
+        "cnf_filename": "2bitadd_12.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.05
+    },
+    {
+        "cnf_filename": "4blocksb.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.1
+    },
+    {
+        "cnf_filename": "enddr2-10-by-5-8.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "ewddr2-10-by-5-8.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.18
+    },
+    {
+        "cnf_filename": "2bitcomp_5.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "e0ddr2-10-by-5-1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.26
+    },
+    {
+        "cnf_filename": "2bitmax_6.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.0
+    },
+    {
+        "cnf_filename": "ewddr2-10-by-5-1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "e0ddr2-10-by-5-4.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    },
+    {
+        "cnf_filename": "4blocks.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.25
+    },
+    {
+        "cnf_filename": "3bitadd_31.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.49
+    },
+    {
+        "cnf_filename": "3blocks.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.06
+    },
+    {
+        "cnf_filename": "3bitadd_32.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.52
+    },
+    {
+        "cnf_filename": "enddr2-10-by-5-1.cnf",
+        "sat_status": "SATISFIABLE",
+        "process_time_seconds": 0.04
+    }
+]
